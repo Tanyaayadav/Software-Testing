@@ -60,7 +60,7 @@ Setup and Installation
 
     sh
 
-    git clone https://github.com/chandreshpatle/software-testing-projects.git
+    git clone https://github.com/Tanyaayadav/software-testing.git
     cd software-testing-projects
 
     Install Required Tools:
