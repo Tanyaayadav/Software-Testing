@@ -1,4 +1,4 @@
-Software Testing Projects by Chandresh Patle
+Software Testing Projects 
 
 Welcome to the Software Testing Projects repository! This repository contains a collection of comprehensive projects designed to enhance your skills in both manual and automated testing. Whether you're a beginner or an experienced tester, these projects will provide you with hands-on experience and practical knowledge.
 Table of Contents
